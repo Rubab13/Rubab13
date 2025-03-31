@@ -3,6 +3,11 @@
 💡 Exploring Angular, Java, and Power BI  
 🎙️ Uploading podcasts to improve my English skills  
 
+### 🔧 Technologies & Tools  
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)  
+![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)  
+![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi)
+
 
 <!--
 **Rubab13/Rubab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
