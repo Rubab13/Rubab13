@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rubab  
+🚀 Passionate about Web Development & Data Science  
+💡 Exploring Angular, Java, and Power BI  
+🎙️ Uploading podcasts to improve my English skills  
+
 
 <!--
 **Rubab13/Rubab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
