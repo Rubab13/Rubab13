@@ -8,6 +8,8 @@
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)  
 ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi)
 
+![Rubab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubab123&show_icons=true&theme=radical)
+
 
 <!--
 **Rubab13/Rubab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
