@@ -8,7 +8,11 @@
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)  
 ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi)
 
-![Rubab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubab123&show_icons=true&theme=radical)
+![Rubab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubab13&show_icons=true&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rubab123&theme=gruvbox)
 
 
 <!--
