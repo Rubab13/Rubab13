@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?t=st=1744082516~exp=1744086116~hmac=cfabb529d7a8521b57db4d2ddf713f9e608fcfb5ace44c264b5e2aae0c92ec2e&w=900)" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BiM2plcm5wbmd2bXViN3FhZnpoOGtuejJ2eWZ0ZXFxcjB0dW9uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
 </div>
 
 # Hi there! 👋 I'm Rubab  
