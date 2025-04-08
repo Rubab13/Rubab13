@@ -14,6 +14,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Rubab13&style=flat-square&color=blue" alt=""/>
+
 # Hi there! 👋 I'm Rubab  
 🚀 Passionate about Web Development & Data Science  
 💡 Exploring Angular, Java, and Power BI  
