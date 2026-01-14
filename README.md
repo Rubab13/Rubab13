@@ -89,6 +89,59 @@ A modern web application with a responsive UI and robust backend logic.
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/YOUR_USERNAME/project-one">
+        <img src="https://via.placeholder.com/500x280?text=Vendor+Onboarding+System" alt="Vendor Onboarding" />
+        <br />
+        <strong>Intelligent Vendor Onboarding</strong>
+      </a>
+      <br />
+      <sub>Automated workflows, Adaptive Cards, Power Automate</sub>
+    </td>
+
+    <td align="center" width="50%">
+      <a href="https://github.com/YOUR_USERNAME/project-two">
+        <img src="https://via.placeholder.com/500x280?text=Data+Analytics+Engine" alt="Data Analytics" />
+        <br />
+        <strong>Data Analytics & Insights Engine</strong>
+      </a>
+      <br />
+      <sub>Data cleaning, visualization, insight generation</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/YOUR_USERNAME/project-three">
+        <img src="https://via.placeholder.com/500x280?text=Machine+Learning+Model" alt="ML Model" />
+        <br />
+        <strong>Machine Learning Prediction Model</strong>
+      </a>
+      <br />
+      <sub>Feature engineering, training, evaluation</sub>
+    </td>
+
+    <td align="center" width="50%">
+      <a href="https://github.com/YOUR_USERNAME/project-four">
+        <img src="https://via.placeholder.com/500x280?text=Full+Stack+Web+App" alt="Web App" />
+        <br />
+        <strong>Full-Stack Web Application</strong>
+      </a>
+      <br />
+      <sub>React, APIs, authentication, clean UI</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
