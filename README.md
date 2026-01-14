@@ -1,66 +1,107 @@
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# 👋 Hi, I’m Rubab
 
-<img src="https://komarev.com/ghpvc/?username=Rubab13&style=flat-square&color=blue" alt=""/ align="center">
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+**Software Developer | Data Scientist**  
+I build intelligent systems, data-driven products, and clean, scalable software.  
+My work lives at the intersection of **code, data, and real-world problem solving**.
 
 ---
 
-### :woman_technologist: About Me :
+## 🧠 About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I enjoy turning messy problems into elegant solutions.  
+From backend logic and automation workflows to data analysis and machine learning models, I care deeply about **clarity, performance, and impact**.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 💻 Software Development (Web, Automation, APIs)
+- 📊 Data Science & Analytics
+- 🤖 ML-ready pipelines & intelligent workflows
+- 🧩 Clean architecture & reusable components
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🛠 Tech Stack
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+**Languages**  
+`Python` · `JavaScript` · `SQL`
+
+**Frameworks & Tools**  
+`React` · `Node.js` · `Power Automate` · `Pandas` · `NumPy` · `Scikit-learn`
+
+**Platforms**  
+`GitHub` · `Azure` · `Power Platform` · `Postman`
 
 ---
 
-### :fire: My Stats :
+## 🌟 Featured Projects
 
-https://github-readme-streak-stats.herokuapp.com/?user=Rubab13
+### 🚀 Project One – Intelligent Vendor Onboarding System
+![Project Preview](https://via.placeholder.com/900x400?text=Vendor+Onboarding+System)
 
+An automated workflow that extracts vendor data from emails, validates inputs, and interacts with users via adaptive cards.
 
+**Highlights**
+- Email-triggered automation
+- Adaptive Cards integration
+- Reusable Power Automate child flows
+
+🔗 *Repo link coming soon*
+
+---
+
+### 📈 Project Two – Data Analysis & Insights Engine
+![Project Preview](https://via.placeholder.com/900x400?text=Data+Analytics+Dashboard)
+
+A data pipeline that cleans, analyzes, and visualizes large datasets to uncover actionable insights.
+
+**Highlights**
+- Data preprocessing & feature engineering
+- Insightful visualizations
+- Scalable analysis workflows
+
+🔗 *Repo link coming soon*
+
+---
+
+### 🤖 Project Three – Machine Learning Prediction Model
+![Project Preview](https://via.placeholder.com/900x400?text=Machine+Learning+Model)
+
+A predictive model designed to solve a real-world classification/regression problem with measurable accuracy.
+
+**Highlights**
+- Model training & evaluation
+- Clean, explainable features
+- Production-ready structure
+
+🔗 *Repo link coming soon*
+
+---
+
+### 🌐 Project Four – Full-Stack Web Application
+![Project Preview](https://via.placeholder.com/900x400?text=Full+Stack+Web+App)
+
+A modern web application with a responsive UI and robust backend logic.
+
+**Highlights**
+- REST APIs
+- Secure authentication
+- Clean UI & state management
+
+🔗 *Repo link coming soon*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 **LinkedIn:** *Add your link*
+- 📧 **Email:** *your.email@example.com*
+
+---
+
+> *Code should be readable. Data should tell a story.  
+> Good systems do both.*
