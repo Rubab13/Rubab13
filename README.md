@@ -3,7 +3,6 @@
 **AI-Driven Software Developer | Data Science Undergraduate**
 
 - Email: ahmadrubab13@gmail.com
-- Phone: +92 334 5067175
 - Location: Islamabad, Pakistan
 - GitHub: https://github.com/Rubab13
 - LinkedIn: https://linkedin.com/in/rubabahmad
