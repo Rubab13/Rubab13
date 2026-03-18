@@ -1,160 +1,59 @@
-# 👋 Hi, I’m Rubab
+# Rubab Ahmad
 
-**Software Developer | Data Scientist**  
-I build intelligent systems, data-driven products, and clean, scalable software.  
-My work lives at the intersection of **code, data, and real-world problem solving**.
+**AI-Driven Software Developer | Data Science Undergraduate**
 
----
+- Email: ahmadrubab13@gmail.com
+- Phone: +92 334 5067175
+- Location: Islamabad, Pakistan
+- GitHub: https://github.com/Rubab13
+- LinkedIn: https://linkedin.com/in/rubabahmad
 
-## 🧠 About Me
+## Professional Summary
+Data Science undergraduate at COMSATS University Islamabad with practical experience building AI-enabled and full-stack products across legal tech, HR tech, and construction domains. Strong foundation in machine learning, LLM applications, and modern web development, with hands-on delivery of responsive UIs, automation workflows, and production-ready backend services.
 
-I enjoy turning messy problems into elegant solutions.  
-From backend logic and automation workflows to data analysis and machine learning models, I care deeply about **clarity, performance, and impact**.
+## Work Experience
+### Software Developer - Kalsoft
+**Ontario, Canada | August 2024 - Present**
+- Designed and developed complete responsive UI components for XPreCon using Angular.
+- Improved application performance through cache management and lazy loading for images and modules.
+- Researched and contributed to Agentic AI implementation, supporting multi-agent integration across platform workflows.
 
-- 💻 Software Development (Web, Automation, APIs)
-- 📊 Data Science & Analytics
-- 🤖 ML-ready pipelines & intelligent workflows
-- 🧩 Clean architecture & reusable components
+## Projects
+### LegalHub.AI - Your Legal Guide
+- Developed an AI-powered legal ecosystem featuring a RAG-based chatbot, lawyer recommendation system, and legal document drafting module.
+- Implemented real-time consultation features using WebSockets for secure communication between users and legal professionals.
+- Integrated OCR-based lawyer bar certificate recognition and NLP-driven query processing for verification and personalized legal guidance.
 
----
+### HRM Onboarding - A Smart Hiring Platform
+- Built an AI-powered HR recruitment platform using FastAPI and Google Gemini AI with a multi-agent architecture (Intake, Resume Screener, Evaluator).
+- Automated candidate screening and ranking to reduce manual resume shortlisting effort.
+- Developed responsive full-stack interfaces for both candidates and HR teams.
 
-## 🛠 Tech Stack
+### XPreCon - Your Pre-Construction Partner
+- Developed a Canadian pre-construction web application using Angular and TypeScript with a strong focus on UI/UX quality and accessibility.
+- Implemented responsive, cross-browser, mobile-first layouts to ensure consistent behavior across Android and iOS devices.
+- Optimized frontend performance using lazy loading, caching strategies, and asset optimization.
 
-**Languages**  
-`Python` · `JavaScript` · `SQL`
+### Sleep Hours and Diet Intake: A Case Study of RMU
+- Conducted localized data collection to analyze student food intake and sleeping patterns.
+- Investigated relationships between dietary content and sleep duration to identify healthy vs sleep-deprived patterns.
+- Built a predictive model to classify students' sleep status (adequate or deprived) from dietary and sleep-related features.
 
-**Frameworks & Tools**  
-`React` · `Node.js` · `Power Automate` · `Pandas` · `NumPy` · `Scikit-learn`
+## Education
+### COMSATS University Islamabad (CUI)
+**Bachelor in Data Science | 2022 - 2026**
+- CGPA: 3.85/4.0
+- Relevant coursework: Data Analytics, Data Warehousing, Business Intelligence, Machine Learning, LLMs, Web Technologies
 
-**Platforms**  
-`GitHub` · `Azure` · `Power Platform` · `Postman`
+## Technical Skills
+- Languages: Python, R, TypeScript, JavaScript, Java, C#
+- Frontend: HTML, CSS, Angular, React.js, Bootstrap, Material UI, Tailwind CSS
+- Backend: FastAPI, Node.js
+- Databases: MongoDB, PostgreSQL, MySQL, DynamoDB
+- BI Tools: Power BI, Tableau
+- Data Engineering: Dimensional Modelling, Data Warehousing, ETL Pipelines
 
----
-
-## 🌟 Featured Projects
-
-### 🚀 Project One – Intelligent Vendor Onboarding System
-![Project Preview](https://via.placeholder.com/900x400?text=Vendor+Onboarding+System)
-
-An automated workflow that extracts vendor data from emails, validates inputs, and interacts with users via adaptive cards.
-
-**Highlights**
-- Email-triggered automation
-- Adaptive Cards integration
-- Reusable Power Automate child flows
-
-🔗 *Repo link coming soon*
-
----
-
-### 📈 Project Two – Data Analysis & Insights Engine
-![Project Preview](https://via.placeholder.com/900x400?text=Data+Analytics+Dashboard)
-
-A data pipeline that cleans, analyzes, and visualizes large datasets to uncover actionable insights.
-
-**Highlights**
-- Data preprocessing & feature engineering
-- Insightful visualizations
-- Scalable analysis workflows
-
-🔗 *Repo link coming soon*
-
----
-
-### 🤖 Project Three – Machine Learning Prediction Model
-![Project Preview](https://via.placeholder.com/900x400?text=Machine+Learning+Model)
-
-A predictive model designed to solve a real-world classification/regression problem with measurable accuracy.
-
-**Highlights**
-- Model training & evaluation
-- Clean, explainable features
-- Production-ready structure
-
-🔗 *Repo link coming soon*
-
----
-
-### 🌐 Project Four – Full-Stack Web Application
-![Project Preview](https://via.placeholder.com/900x400?text=Full+Stack+Web+App)
-
-A modern web application with a responsive UI and robust backend logic.
-
-**Highlights**
-- REST APIs
-- Secure authentication
-- Clean UI & state management
-
-🔗 *Repo link coming soon*
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/YOUR_USERNAME/project-one">
-        <img src="https://via.placeholder.com/500x280?text=Vendor+Onboarding+System" alt="Vendor Onboarding" />
-        <br />
-        <strong>Intelligent Vendor Onboarding</strong>
-      </a>
-      <br />
-      <sub>Automated workflows, Adaptive Cards, Power Automate</sub>
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://github.com/YOUR_USERNAME/project-two">
-        <img src="https://via.placeholder.com/500x280?text=Data+Analytics+Engine" alt="Data Analytics" />
-        <br />
-        <strong>Data Analytics & Insights Engine</strong>
-      </a>
-      <br />
-      <sub>Data cleaning, visualization, insight generation</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/YOUR_USERNAME/project-three">
-        <img src="https://via.placeholder.com/500x280?text=Machine+Learning+Model" alt="ML Model" />
-        <br />
-        <strong>Machine Learning Prediction Model</strong>
-      </a>
-      <br />
-      <sub>Feature engineering, training, evaluation</sub>
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://github.com/YOUR_USERNAME/project-four">
-        <img src="https://via.placeholder.com/500x280?text=Full+Stack+Web+App" alt="Web App" />
-        <br />
-        <strong>Full-Stack Web Application</strong>
-      </a>
-      <br />
-      <sub>React, APIs, authentication, clean UI</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let’s Connect
-
-- 💼 **LinkedIn:** *Add your link*
-- 📧 **Email:** *your.email@example.com*
-
----
-
-> *Code should be readable. Data should tell a story.  
-> Good systems do both.*
+## Volunteering / Community
+### Web Development Associate
+**February 2024 - June 2024**
+- Supported web development activities in a community-focused role, applying frontend development and practical implementation skills.
